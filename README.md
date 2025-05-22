@@ -21,7 +21,7 @@ The bot uses a MySQL database to manage restaurant data, menu items, reservation
 Clone the project to your local machine:
 ```bash
 git clone https://github.com/vasundra-172/Restaurant-Bot.git
-cd restaurant-bot
+cd Restaurant-Bot
 ```
 
 ### 2. Install Dependencies
